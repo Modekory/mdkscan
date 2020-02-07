@@ -1,7 +1,7 @@
 # rep-moedir
 Simple bruteforcer directory or file on sites
 
-!!!Use only to search for vulnerabilities to improve protection, do not use it for criminal purposes!!!
+!!!Use only to search for vulnerabilities to improve protection or CTF, do not use it for criminal purposes!!!
 
 It has two keys -l and -f
 -l (-link (cannot be used))
