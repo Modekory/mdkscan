@@ -1,5 +1,5 @@
 Alpha 0.1
-Just create
+Just create moedir
 Alpha 0.2
 Program can generate random word
 Alpha 0.3
@@ -17,6 +17,7 @@ Beta 1.2
 Add key -f for format
 Anounce:
 Beta 1.337
+Rename to mdkscan
 Add key -php for PHP-injection
 -php <object>
 Add key -p for port
