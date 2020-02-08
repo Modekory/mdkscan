@@ -1,11 +1,23 @@
 Alpha 0.1
-Just start
+Just create
 Alpha 0.2
 Program can generate random word
-Alpha 0.3-5
+Alpha 0.3
+Add key -l for link
+Alpha 0.4-0.6
 Something bugfix and clear trash
 Alpha 0.7
 Just graphic work
 Alpha 0.9
 First work with http request
-Beta 1.0
+Beta 1.0-1
+First tests with net
+Bugfix
+Beta 1.2
+Add key -f for format
+Anounce:
+Beta 1.337
+Add key -php for PHP-injection
+-php <object>
+Add key -p for port
+-p 8080
