@@ -15,10 +15,4 @@ First tests with net
 Bugfix
 Beta 1.2
 Add key -f for format
-Anounce:
-Beta 1.337
-Rename to mdkscan
-Add key -php for PHP-injection
--php <object>
-Add key -p for port
--p 8080
+Upload on GitHub
