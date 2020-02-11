@@ -1,6 +1,13 @@
-Δ 1.0...
+Δ 1.0
+Add new keys: 
+-i <inject> : It has a serious bug, as a result of which it is so far useless
+-t <number of task> : Setting the number of requests per second
+-s (check webserver) : Which web server is used
+-o <output file> : Saving logs to a file
+-h (help) : Calls up the help page
+The code has been completely redone. In this regard, many moedir errors were fixed, but new bugs appeared, please report all bugs.
 ====================================
-GRAND UPDATE is coming 02.2020
+Recoding in to mdkscan
 ====================================
 Beta 1.2
 Add key -f for format
